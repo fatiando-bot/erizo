@@ -15,6 +15,26 @@ This gallery contains a selection examples of what Erizo can do.
 
 .. raw:: html
 
+    <div class="sphx-glr-thumbcontainer" tooltip="One way of gridding vector data would be grid each component separately. Alternatively, erizo.E...">
+
+.. only:: html
+
+    .. figure:: /gallery/images/thumb/sphx_glr_elastic2d_thumb.png
+
+        :ref:`sphx_glr_gallery_elastic2d.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /gallery/elastic2d
+
+.. raw:: html
+
     <div class="sphx-glr-thumbcontainer" tooltip="This is an example of erizo.function.">
 
 .. only:: html
